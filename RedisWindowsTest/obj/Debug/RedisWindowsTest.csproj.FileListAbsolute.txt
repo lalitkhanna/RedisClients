@@ -1,0 +1,13 @@
+D:\CWT\POC\RedisWindowsTest\RedisWindowsTest\bin\Debug\RedisWindowsTest.exe.config
+D:\CWT\POC\RedisWindowsTest\RedisWindowsTest\bin\Debug\RedisWindowsTest.exe
+D:\CWT\POC\RedisWindowsTest\RedisWindowsTest\bin\Debug\RedisWindowsTest.pdb
+D:\CWT\POC\RedisWindowsTest\RedisWindowsTest\bin\Debug\ServiceStack.Common.dll
+D:\CWT\POC\RedisWindowsTest\RedisWindowsTest\bin\Debug\ServiceStack.Interfaces.dll
+D:\CWT\POC\RedisWindowsTest\RedisWindowsTest\bin\Debug\ServiceStack.Redis.dll
+D:\CWT\POC\RedisWindowsTest\RedisWindowsTest\bin\Debug\ServiceStack.Text.dll
+D:\CWT\POC\RedisWindowsTest\RedisWindowsTest\bin\Debug\ServiceStack.Common.xml
+D:\CWT\POC\RedisWindowsTest\RedisWindowsTest\bin\Debug\ServiceStack.Redis.xml
+D:\CWT\POC\RedisWindowsTest\RedisWindowsTest\bin\Debug\ServiceStack.Text.xml
+D:\CWT\POC\RedisWindowsTest\RedisWindowsTest\obj\Debug\RedisWindowsTest.csprojResolveAssemblyReference.cache
+D:\CWT\POC\RedisWindowsTest\RedisWindowsTest\obj\Debug\RedisWindowsTest.exe
+D:\CWT\POC\RedisWindowsTest\RedisWindowsTest\obj\Debug\RedisWindowsTest.pdb
